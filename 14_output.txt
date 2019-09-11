@@ -1,0 +1,5 @@
+rno      name     english     math      total 
+SWRN1         sai        80         70        150
+ SWRN3         ramu        60         50        110
+ SWRN4         lakshmi        90         90        180
+ 
